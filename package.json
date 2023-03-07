@@ -1,5 +1,5 @@
 {
-  "name": "health-calculations",
+  "name": "@widlestudiollp/health-calculations",
   "version": "0.0.1",
   "description": "This a health calculations of BMI",
   "main": "index.js",
