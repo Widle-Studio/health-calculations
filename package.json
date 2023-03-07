@@ -1,0 +1,19 @@
+{
+  "name": "health-calculations",
+  "version": "1.0.0",
+  "description": "1. BMI Calculator\r 2. Calorie Calculator\r 3. Body Fat Calculator\r 4. BMR Calculator\r 5. Ideal Weight Calculator\r 6. Pace Calculator\r 7. Army Body Fat Calculator\r 8 Lean Body Mass Calculator\r 9 Healthy Weight Calculator\r 10 Calories Burned Calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Widle-Studio/health-calculations.git"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Widle-Studio/health-calculations/issues"
+  },
+  "homepage": "https://github.com/Widle-Studio/health-calculations#readme"
+}
