@@ -1,7 +1,7 @@
 {
   "name": "@widlestudiollp/health-calculation",
-  "version": "0.0.1",
-  "description": "This a health calculations of BMI",
+  "version": "0.0.2",
+  "description": "This a health calculations of body-fat",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -14,7 +14,8 @@
     "url": "git+https://github.com/Widle-Studio/health-calculations.git"
   },
   "keywords": [
-    "BMI-Calculations"
+    "BMI-Calculations",
+    "Body-Fat Calculations"
   ],
   "author": "Widle Studio LLP",
   "license": "Apache-2.0",

@@ -2,15 +2,15 @@
 
 ## Fitness
 1. BMI Calculator
-2. Calorie Calculator
-3. Body Fat Calculator
-4. BMR Calculator
-5. Ideal Weight Calculator
-6. Pace Calculator
-7. Army Body Fat Calculator
-8 Lean Body Mass Calculator
-9 Healthy Weight Calculator
-10 Calories Burned Calculator
+2. Body Fat Calculator
+3. BMR Calculator
+4. Ideal Weight Calculator
+5. Pace Calculator
+6. Army Body Fat Calculator
+7. Calorie Calculator
+8. Lean Body Mass Calculator
+9. Healthy Weight Calculator
+10. Calories Burned Calculator
 
 ## Pregnancy
 1. Pregnancy Calculator
