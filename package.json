@@ -1,7 +1,7 @@
 {
   "name": "@widlestudiollp/health-calculation",
-  "version": "0.0.3",
-  "description": "This a health calculations of BMR & Update in dedcimal poins & Changing in variable naming",
+  "version": "0.0.4",
+  "description": "This a health calculations of ideal-weight",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -16,7 +16,8 @@
   "keywords": [
     "BMI-Calculations",
     "Body-Fat Calculations",
-    "BMR Calculations"
+    "BMR Calculations",
+    "Ideal-Weight Calculations"
   ],
   "author": "Widle Studio LLP",
   "license": "Apache-2.0",
