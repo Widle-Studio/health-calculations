@@ -1,6 +1,6 @@
 {
   "name": "@widlestudiollp/health-calculation",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "This a health calculations ",
   "main": "index.js",
   "directories": {
@@ -19,7 +19,8 @@
     "BMR",
     "Ideal-Weight",
     "Pace",
-    "Army Body-Fat Percentage"
+    "Army Body-Fat Percentage",
+    "Calories"
   ],
   "author": "Widle Studio LLP",
   "license": "Apache-2.0",
