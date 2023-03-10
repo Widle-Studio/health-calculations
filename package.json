@@ -1,7 +1,7 @@
 {
   "name": "@widlestudiollp/health-calculation",
-  "version": "0.0.4",
-  "description": "This a health calculations of ideal-weight",
+  "version": "0.0.5",
+  "description": "This a health calculations ",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -14,15 +14,16 @@
     "url": "git+https://github.com/Widle-Studio/health-calculations.git"
   },
   "keywords": [
-    "BMI-Calculations",
-    "Body-Fat Calculations",
-    "BMR Calculations",
-    "Ideal-Weight Calculations"
+    "BMI",
+    "Body-Fat",
+    "BMR",
+    "Ideal-Weight",
+    "Pace"
   ],
   "author": "Widle Studio LLP",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/Widle-Studio/health-calculations/issues"
+    "url": "https://github.com/Widle-Studio/health/issues"
   },
   "homepage": "https://github.com/Widle-Studio/health-calculations#readme"
 }
