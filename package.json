@@ -1,6 +1,6 @@
 {
   "name": "@widlestudiollp/health-calculation",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "description": "This a health calculations ",
   "main": "index.js",
   "directories": {
@@ -23,10 +23,11 @@
     "Calories",
     "LBM",
     "Healthy Weight",
-    "Calories Burn"
+    "Calories Burn",
+    "Pregnancy Weight Gain"
   ],
   "author": "Widle Studio LLP",
-  "license": "Apache-2.0",
+  "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/Widle-Studio/health/issues"
   },

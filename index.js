@@ -8,3 +8,5 @@ exports.calorie = require('./lib/fitness/calorie')
 exports.lbm = require('./lib/fitness/lbm')
 exports.healthyWeight = require('./lib/fitness/healthyWeight')
 exports.caloriesBurn = require('./lib/fitness/caloriesBurn')
+
+exports.pregnancyWeightGain = require('./lib/pregnancy/pregnancyWeightGain')
