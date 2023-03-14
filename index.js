@@ -14,6 +14,7 @@ exports.caloriesBurn = require('./lib/fitness/caloriesBurn')
 exports.pregnancyWeightGain = require('./lib/pregnancy/pregnancyWeightGain')
 
 //other calculator
+exports.macro = require('./lib/others/macro')
 exports.tdee = require('./lib/others/tdee')
 exports.gfr = require('./lib/others/gfr')
 exports.bsa = require('./lib/others/bsa')
