@@ -16,3 +16,4 @@ exports.pregnancyWeightGain = require('./lib/pregnancy/pregnancyWeightGain')
 //other calculator
 exports.tdee = require('./lib/others/tdee')
 exports.gfr = require('./lib/others/gfr')
+exports.bsa = require('./lib/others/bsa')
