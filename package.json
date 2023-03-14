@@ -1,6 +1,6 @@
 {
   "name": "@widlestudiollp/health-calculation",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "description": "This a health calculations ",
   "main": "index.js",
   "directories": {
@@ -24,7 +24,8 @@
     "LBM",
     "Healthy Weight",
     "Calories Burn",
-    "Pregnancy Weight Gain"
+    "Pregnancy Weight Gain",
+    "TDEE"
   ],
   "author": "Widle Studio LLP",
   "license": "GPL-3.0",
