@@ -1,6 +1,6 @@
 {
   "name": "@widlestudiollp/health-calculation",
-  "version": "0.0.16",
+  "version": "0.0.17",
   "description": "This a health calculations ",
   "main": "index.js",
   "directories": {
@@ -29,7 +29,8 @@
     "GFR",
     "BSA",
     "Macro",
-    "Carbohydrate"
+    "Carbohydrate",
+    "Protein"
   ],
   "author": "Widle Studio LLP",
   "license": "GPL-3.0",
