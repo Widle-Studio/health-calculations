@@ -1,6 +1,6 @@
 {
   "name": "@widlestudiollp/health-calculation",
-  "version": "0.0.21",
+  "version": "0.0.22",
   "description": "This a health calculations ",
   "main": "index.js",
   "directories": {
@@ -34,7 +34,8 @@
     "Fat Intake",
     "BAC",
     "Body Type",
-    "Ovulation"
+    "Ovulation",
+    "Conception"
   ],
   "author": "Widle Studio LLP",
   "license": "GPL-3.0",
