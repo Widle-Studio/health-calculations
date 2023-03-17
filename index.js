@@ -14,6 +14,7 @@ exports.caloriesBurn = require('./lib/fitness/caloriesBurn')
 exports.pregnancyWeightGain = require('./lib/pregnancy/pregnancyWeightGain')
 exports.ovulation = require('./lib/pregnancy/ovulation')
 exports.conception = require('./lib/pregnancy/conception')
+exports.period = require('./lib/pregnancy/period')
 
 //other calculator
 exports.macro = require('./lib/others/macro')
