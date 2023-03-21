@@ -1,6 +1,6 @@
 //fitness calculator
 exports.bmi = require('./lib/fitness/bmi')
-exports.bodyFat = require('./lib/fitness/body_fat')
+exports.bodyFat = require('./lib/fitness/bodyFat')
 exports.bmr = require('./lib/fitness/bmr')
 exports.idealWeight = require('./lib/fitness/idealWeight')
 exports.pace = require('./lib/fitness/pace')

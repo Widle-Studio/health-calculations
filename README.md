@@ -6,7 +6,7 @@
 
 [![Try on RunKit](https://badge.runkitcdn.com/@widlestudiollp/health-calculation.svg)](https://runkit.com/npm/@widlestudiollp/health-calculation)
 
-## Installation
+## [Installation](https://github.com/Widle-Studio/health-calculations#installation)
 
 Install the package with:
 
@@ -16,39 +16,39 @@ npm install @widlestudiollp/health-calculation --save
 yarn add @widlestudiollp/health-calculation
 ```
 
-## Fitness
+## [Fitness](https://github.com/Widle-Studio/health-calculations#fitness-1)
 
-1. BMI Calculator
-2. Body Fat Calculator
-3. BMR Calculator
-4. Ideal Weight Calculator
-5. Pace Calculator
-6. Army Body Fat Calculator
-7. Calorie Calculator
-8. Lean Body Mass Calculator
-9. Healthy Weight Calculator
-10. Calories Burned Calculator
+1. [BMI Calculator](https://github.com/Widle-Studio/health-calculations#1-bmi-calculator)
+2. [Body Fat Calculator](https://github.com/Widle-Studio/health-calculations#2-body-fat-calculator)
+3. [BMR Calculator](https://github.com/Widle-Studio/health-calculations#3-bmr-calculator)
+4. [Ideal Weight Calculator](https://github.com/Widle-Studio/health-calculations#4-ideal-weight-calculator)
+5. [Pace Calculator](https://github.com/Widle-Studio/health-calculations#5-pace-calculator)
+6. [Army Body Fat Calculator](https://github.com/Widle-Studio/health-calculations#6-army-body-fat-calculator)
+7. [Calorie Calculator](https://github.com/Widle-Studio/health-calculations#7-calorie-calculator)
+8. [Lean Body Mass Calculator](https://github.com/Widle-Studio/health-calculations#8-lean-body-mass-calculator)
+9. [Healthy Weight Calculator](https://github.com/Widle-Studio/health-calculations#9-healthy-weight-calculator)
+10. [Calories Burned Calculator](https://github.com/Widle-Studio/health-calculations#10-calories-burned-calculator)
 
-## Pregnancy
+## [Pregnancy](https://github.com/Widle-Studio/health-calculations#pregnancy-1)
 
-1. Pregnancy Calculator
-2. Pregnancy Weight Gain Calculator
-3. Conception Calculator
-4. Due Date Calculator
-5. Ovulation Calculator
-6. Period Calculator
+1. [Pregnancy Calculator](https://github.com/Widle-Studio/health-calculations#1-pregnancy-calculator)
+2. [Pregnancy Weight Gain Calculator](https://github.com/Widle-Studio/health-calculations#2-pregnancy-weight-gain-calculator)
+3. [Conception Calculator](https://github.com/Widle-Studio/health-calculations#3-conception-calculator)
+4. [Estimate Delivery Date Calculator](https://github.com/Widle-Studio/health-calculations#4-due-date-calculator)
+5. [Ovulation Calculator](https://github.com/Widle-Studio/health-calculations#5-ovulation-calculator)
+6. [Period Calculator](https://github.com/Widle-Studio/health-calculations#6-period-calculator)
 
-## Other
+## [Other](https://github.com/Widle-Studio/health-calculations#other-1)
 
-1. Macro Calculator
-2. Carbohydrate Calculator
-3. Protein Calculator
-4. Fat Intake Calculator
-5. TDEE Calculator
-6. GFR Calculator
-7. Body Type Calculator
-8. Body Surface Area Calculator
-9. BAC Calculator
+1. [Macro Calculator](https://github.com/Widle-Studio/health-calculations#1-macro-calculator)
+2. [Carbohydrate Calculator](https://github.com/Widle-Studio/health-calculations#2-carbohydrate-calculator)
+3. [Protein Calculator](https://github.com/Widle-Studio/health-calculations#3-protein-calculator)
+4. [Fat Intake Calculator](https://github.com/Widle-Studio/health-calculations#4-fat-intake-calculator)
+5. [TDEE Calculator](https://github.com/Widle-Studio/health-calculations#5-tdee-calculator)
+6. [GFR Calculator](https://github.com/Widle-Studio/health-calculations#6-gfr-calculator)
+7. [Body Type Calculator](https://github.com/Widle-Studio/health-calculations#7-body-type-calculator)
+8. [Body Surface Area Calculator](https://github.com/Widle-Studio/health-calculations#8-body-surface-area-calculator)
+9. [BAC Calculator](https://github.com/Widle-Studio/health-calculations#9-bac-calculator)
 
 # Fitness
 
@@ -387,7 +387,7 @@ the result is :
 ["07/01/2023 - 12/01/2023"];
 ```
 
-## 4. Due date Calculator
+## 4. Estimate Delivery Date Calculator
 
          **Upcoming**
 
@@ -727,3 +727,7 @@ the result is :
 ```js
 10.24;
 ```
+
+## License
+
+[GNU General Public License v3.0](https://github.com/Widle-Studio/health-calculations/blob/main/LICENSE)
