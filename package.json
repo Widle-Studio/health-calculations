@@ -25,6 +25,10 @@
     "Healthy Weight",
     "Calories Burn",
     "Pregnancy Weight Gain",
+    "Ovulation",
+    "Conception",
+    "Estimate Delivery Date",
+    "Period",
     "TDEE",
     "GFR",
     "BSA",
@@ -33,10 +37,7 @@
     "Protein",
     "Fat Intake",
     "BAC",
-    "Body Type",
-    "Ovulation",
-    "Conception",
-    "Period"
+    "Body Type"
   ],
   "author": "Widle Studio LLP",
   "license": "GPL-3.0",

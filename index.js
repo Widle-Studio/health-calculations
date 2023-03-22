@@ -15,6 +15,7 @@ exports.pregnancyWeightGain = require('./lib/pregnancy/pregnancyWeightGain')
 exports.ovulation = require('./lib/pregnancy/ovulation')
 exports.conception = require('./lib/pregnancy/conception')
 exports.period = require('./lib/pregnancy/period')
+exports.estimateDate = require('./lib/pregnancy/estimateDeliveryDate')
 
 //other calculator
 exports.macro = require('./lib/others/macro')

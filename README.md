@@ -34,7 +34,7 @@ yarn add @widlestudiollp/health-calculation
 1. [Pregnancy Calculator](https://github.com/Widle-Studio/health-calculations#1-pregnancy-calculator)
 2. [Pregnancy Weight Gain Calculator](https://github.com/Widle-Studio/health-calculations#2-pregnancy-weight-gain-calculator)
 3. [Conception Calculator](https://github.com/Widle-Studio/health-calculations#3-conception-calculator)
-4. [Estimate Delivery Date Calculator](https://github.com/Widle-Studio/health-calculations#4-due-date-calculator)
+4. [Estimate Delivery Date Calculator](https://github.com/Widle-Studio/health-calculations#4-estimate-delivery-date-calculator)
 5. [Ovulation Calculator](https://github.com/Widle-Studio/health-calculations#5-ovulation-calculator)
 6. [Period Calculator](https://github.com/Widle-Studio/health-calculations#6-period-calculator)
 
@@ -389,7 +389,33 @@ the result is :
 
 ## 4. Estimate Delivery Date Calculator
 
-         **Upcoming**
+| Parameter | Type     | Description                                    |
+| :-------- | :------- | :--------------------------------------------- |
+| `date`    | `string` | **Required**. First Day of Your Last Period    |
+| `scale`   | `number` | **Required**. Average Length of Cycles (22-44) |
+
+#### Example :
+
+```js
+date : "01/01/2023" ,
+scale : 27
+
+health_calc.estimateDate(date, scale )
+```
+
+the result is :
+
+```js
+{
+  estimateDeliveryWeek: '40',
+  estimateDeliveryDate: '07/10/2023',
+  currentWeek: '12',
+  currentDate: '22/03/2023',
+  pregnancyPercentage: '29',
+  trimester: 'First Trimester',
+  milestone: 'No milestone reached'
+}
+```
 
 ## 5. Ovulation Calculator
 
