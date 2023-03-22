@@ -18,7 +18,7 @@ yarn add @widlestudiollp/health-calculation
 
 ## [Fitness](https://github.com/Widle-Studio/health-calculations#fitness-1)
 
-1. [BMI Calculator](https://github.com/Widle-Studio/health-calculations#1-bmi-calculator)
+1. [BMI Calculator](https://github.com/Widle-Studio/health-calculations#1-bmi-calculator) 
 2. [Body Fat Calculator](https://github.com/Widle-Studio/health-calculations#2-body-fat-calculator)
 3. [BMR Calculator](https://github.com/Widle-Studio/health-calculations#3-bmr-calculator)
 4. [Ideal Weight Calculator](https://github.com/Widle-Studio/health-calculations#4-ideal-weight-calculator)
@@ -335,7 +335,32 @@ the result is :
 
 ## 1. Pregnancy Calculator
 
-       **Upcoming**
+| Parameter | Type     | Description                                    |
+| :-------- | :------- | :--------------------------------------------- |
+| `date`    | `string` | **Required**. First Day of Your Last Period    |
+| `scale`   | `number` | **Required**. Average Length of Cycles (22-44) |
+
+#### Example :
+
+```js
+date : "01/01/2023" ,
+scale : 27
+
+health_calc.pregnancy(date, scale )
+```
+
+the result is :
+
+```js
+{
+  currentWeek: '12',
+  currentDate: '22/03/2023',
+  conceivedBaby: '14/01/2023',
+  pregnancyPercentage: '29',
+  trimester: 'First Trimester',
+  milestone: 'No milestone reached'
+}
+```
 
 ## 2. Pregnancy Weight Gain Calculator
 
@@ -406,11 +431,12 @@ health_calc.estimateDate(date, scale )
 the result is :
 
 ```js
-{
+ {
   estimateDeliveryWeek: '40',
   estimateDeliveryDate: '07/10/2023',
   currentWeek: '12',
   currentDate: '22/03/2023',
+  conceivedBaby: '14/01/2023',
   pregnancyPercentage: '29',
   trimester: 'First Trimester',
   milestone: 'No milestone reached'

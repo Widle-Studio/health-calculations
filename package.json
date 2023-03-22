@@ -1,6 +1,6 @@
 {
   "name": "@widlestudiollp/health-calculation",
-  "version": "0.0.26",
+  "version": "0.0.27",
   "description": "This a health calculations ",
   "main": "index.js",
   "directories": {
@@ -28,6 +28,7 @@
     "Ovulation",
     "Conception",
     "Estimate Delivery Date",
+    "Pregnancy",
     "Period",
     "TDEE",
     "GFR",
